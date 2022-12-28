@@ -15,6 +15,9 @@ World's best eco-friendly chicken egg or dinosour egg, FRA-WE-TAK
 - Back-End: Python, Django Web Framework, AWS EC2, RDS, S3, MySQL
 - Common : Git, Github, Slack, Trello, Notion
 
+<img width="1354" alt="스크린샷 2021-12-10 오전 10 48 20" src="https://user-images.githubusercontent.com/65802134/209756019-0d785e73-9586-48ca-b3d3-42b0bc693941.png">
+
+
 [Back-End]
 
 - 회원가입페이지 : bcrypt, jwt
